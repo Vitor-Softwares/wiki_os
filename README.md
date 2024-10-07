@@ -1,1 +1,1 @@
-Sistema operacional feito em formato de prova de conceito.
+Sistema operacional feito para prova de conceito.
